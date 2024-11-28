@@ -38,12 +38,15 @@ This project focuses on predicting rainfall in Sydney using machine learning tec
 
 ### Model Building:
 
-- Built and evaluated multiple machine learning models, including:
+Built and evaluated multiple machine learning models,
+
+including:
 - Logistic Regression
 - Decision Tree
 - Random Forest
 - Gradient Boosting (e.g., XGBoost)
-- Used techniques like cross-validation and hyperparameter tuning to optimize model performance.
+
+Used techniques like cross-validation and hyperparameter tuning to optimize model performance.
 
 ### Evaluation Metrics:
 - Assessed model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC curve.
